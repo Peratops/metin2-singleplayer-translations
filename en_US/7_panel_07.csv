@@ -8,9 +8,9 @@ p:2509357bde07,Damage taken multiplier,Mnożnik otrzymywanych obrażeń,Damage t
 p:108337eab462,Save the boss,,Save the boss,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:30a36cdb4e5c,Next spawn in 30 s,,Next spawn in 30 s,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:eed8cae63224,Save the drop,,Save the drop,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
-p:006e1d4a9aa6,alive,,alive,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
-p:1608de1fae3a,next spawn,,next spawn,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
-p:4d5f57280283,last error,,last error,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:006e1d4a9aa6,Alive,,alive,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:1608de1fae3a,Next spawn,,next spawn,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:4d5f57280283,Last error,,last error,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:7712d20dc707,Saved. The game reads it within about 5 seconds.,Zapisano. Gra odczyta to w ciągu około 5 sekund.,Saved. The game reads it within about 5 seconds.,"panel: module text / panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",done
 p:b2c9d454e48a,The boss appears in about 30 seconds (if the event is on and stage 3 reached).,Boss pojawi się za około 30 sekund (jeśli event trwa i etap 3 jest osiągnięty).,The boss appears in about 30 seconds (if the event is on and stage 3 reached).,"panel: module text / panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",done
 p:d1173c345df0,Someone changed these settings in another window. Nothing was saved; check them and save again.,Ktoś zmienił te ustawienia w innym oknie. Nic nie zapisano; sprawdź je i zapisz jeszcze raz.,Someone changed these settings in another window. Nothing was saved; check them and save again.,"panel: module text / panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",done
